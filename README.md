@@ -1,5 +1,5 @@
-# template-private-ccncsa
-This is a template repository for private repositories of this organization. It uses Creative Commons Non-Commercial International license. 
+# Altier Text Recognizer 
+This project is a Python AI module that can be used to extract text by scanning an image. This module is ment to be use with AI based software projects. 
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
