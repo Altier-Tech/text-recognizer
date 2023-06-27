@@ -25,5 +25,5 @@ for i in range(n_boxes):
 cv2.imshow('img', img)
 cv2.waitKey(0)
 
-custom_config = r'--oem 3 --psm 6'
-print(pytesseract.image_to_string(img, config=custom_config))
+custom_config = r'-l eng --psm 6'
+pytesseract.image_to_string(img, config=custom_config)
